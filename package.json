@@ -1,0 +1,22 @@
+{
+  "name": "ishan-ocr",
+  "version": "1.0.0",
+  "description": "google cloud ocr for bangla text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minauteur/ishan-ocr.git"
+  },
+  "keywords": [
+    "ocr"
+  ],
+  "author": "Thom Pennington",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/minauteur/ishan-ocr/issues"
+  },
+  "homepage": "https://github.com/minauteur/ishan-ocr#readme"
+}
